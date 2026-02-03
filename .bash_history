@@ -215,3 +215,16 @@ git --version
 which git
 git config --global user.name "sandip"
 git config --global user.email "sandip788828@gmail.com"
+yum install git -y
+git clone https://github.com/sandip788828-jpg/16janrepo.git
+ls
+mkdir 3feb
+git init
+git clon https://github.com/sandip788828-jpg/16janrepo.git
+git clone https://github.com/sandip788828-jpg/16janrepo.git
+cat > local3freb
+git add .
+git push origin main
+git commit -m "my3febfile"
+git push origin main
+exit
