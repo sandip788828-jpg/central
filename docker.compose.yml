@@ -1,0 +1,15 @@
+vesion : '3'
+services:
+  one:
+    image: ubuntu
+    command : /bin/bash -c
+    deploy:
+      replicas: 1
+      restart: always
+
+      two:
+        image: ubuntu
+        command: /bin/bash -c
+        deploy:
+          replicas: 1
+        restart: always
