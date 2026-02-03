@@ -228,3 +228,54 @@ git push origin main
 git commit -m "my3febfile"
 git push origin main
 exit
+yum install -y
+yum install git -y
+mkdir dir1
+git init
+git clone https://github.com/sandip788828-jpg/16janrepo.git
+git clone https://github.com/sandip788828-jpg/myrepo17.git
+touch myfile3feb
+git add .
+git commit -m "3 feb"
+git push origin main
+git push origin master
+git push origin main
+git push origin master
+git push -u origin main
+git branch
+git checkout main
+git cheakout main
+git push origin main
+ls
+git branch
+git cheakout main
+git branch
+git checkout master
+git branch -m master main
+git branch
+touch 3feb1
+git add .
+git commit -m "myfile"
+git push origin main
+exit
+yum install -y
+yum install git  -y
+mkdir dir2
+ls
+cd dir2
+ls
+touch myfile2
+git add .
+git branch
+ls
+cd dir2
+git commit -m "3feb"
+git push origin main
+git clone https://github.com/sandip788828-jpg/myrepo17.git
+git push origin main
+git add .
+touch myfile
+git add .
+git commit -m "myfile"
+git push origin main
+logout
