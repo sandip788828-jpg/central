@@ -279,3 +279,18 @@ git add .
 git commit -m "myfile"
 git push origin main
 logout
+yum install git -y
+mkdir 3febdir
+git init
+git clone https://github.com/sandip788828-jpg/central.git
+git branch
+touch myfile3feb
+git add .
+git commit -m "myfile"
+git push origin main
+https://github.com/username/repo-name.git
+git remote add origin https://github.com/sandip788828-jpg/central.git
+git remote -v
+git push -u origin main
+ssh -keygen
+ssh-keygen
