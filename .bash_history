@@ -372,3 +372,27 @@ git show done
 git tag -a done "My imp comment"83a3cf5
 git tag -a done -m "My imp comment"83a3cf5
 git show done
+yum install -y
+yum install git -y
+mkdir 4feb
+git init
+git clone https://github.com/sandip788828-jpg/16janrepo.git
+ls
+cat > myfile4feb
+git add .
+rm -rf dir1/.git
+git init .
+git reset myfile4feb
+ls
+git reset .
+ls
+cat myfile4feb
+git commit -m "myfile"
+vi .gitignore
+rm -rf dir1/.git
+git add dir1
+git add myfile4feb .gitignore
+git commit -m "Add myfile4feb and gitignore"
+ls
+cd 4feb
+ls
