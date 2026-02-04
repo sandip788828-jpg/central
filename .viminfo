@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1770117156,,"wq"
+|2,0,1770176749,,"wq"
 :x
 |2,0,1769757458,,"x"
 :Q!
@@ -34,35 +34,133 @@
 
 # File marks:
 '0  3  0  ~/.gitignore
-|4,48,3,0,1770117156,"~/.gitignore"
-'1  15  22  ~/docker.compose.yml
-|4,49,15,22,1769829117,"~/docker.compose.yml"
-'2  4  40  ~/Dockerfile
-|4,50,4,40,1769757458,"~/Dockerfile"
-'3  1  21  ~/indexfile
-|4,51,1,21,1769756881,"~/indexfile"
-'4  1  0  /Dockrfile
-|4,52,1,0,1769580360,"/Dockrfile"
-'5  5  5  /Dockerfile
-|4,53,5,5,1769577152,"/Dockerfile"
-'6  6  4  /Dockerfile
-|4,54,6,4,1769576751,"/Dockerfile"
-'7  6  4  /Dockerfile
-|4,55,6,4,1769576751,"/Dockerfile"
-'8  2  70  ~/Dockerfile
-|4,56,2,70,1769575932,"~/Dockerfile"
-'9  5  13  ~/Dockerfile
-|4,57,5,13,1769575932,"~/Dockerfile"
+|4,48,3,0,1770176749,"~/.gitignore"
+'1  2  0  ~/dir1/16janrepo/.git/COMMIT_EDITMSG
+|4,49,2,0,1770122162,"~/dir1/16janrepo/.git/COMMIT_EDITMSG"
+'2  2  0  ~/dir1/16janrepo/.gitignore
+|4,50,2,0,1770121021,"~/dir1/16janrepo/.gitignore"
+'3  4  0  ~/.gitignore
+|4,51,4,0,1770117156,"~/.gitignore"
+'4  3  0  ~/.gitignore
+|4,52,3,0,1770117156,"~/.gitignore"
+'5  15  22  ~/docker.compose.yml
+|4,53,15,22,1769829117,"~/docker.compose.yml"
+'6  4  40  ~/Dockerfile
+|4,54,4,40,1769757458,"~/Dockerfile"
+'7  1  21  ~/indexfile
+|4,55,1,21,1769756881,"~/indexfile"
+'8  1  0  /Dockrfile
+|4,56,1,0,1769580360,"/Dockrfile"
+'9  5  5  /Dockerfile
+|4,57,5,5,1769577152,"/Dockerfile"
 
 # Jumplist (newest first):
 -'  3  0  ~/.gitignore
+|4,39,3,0,1770176749,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1770176714,"~/.gitignore"
+-'  2  0  ~/dir1/16janrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1770122162,"~/dir1/16janrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/dir1/16janrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1770122162,"~/dir1/16janrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/dir1/16janrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1770122112,"~/dir1/16janrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/dir1/16janrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1770122112,"~/dir1/16janrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/dir1/16janrepo/.gitignore
+|4,39,2,0,1770121021,"~/dir1/16janrepo/.gitignore"
+-'  2  0  ~/dir1/16janrepo/.gitignore
+|4,39,2,0,1770121021,"~/dir1/16janrepo/.gitignore"
+-'  2  0  ~/dir1/16janrepo/.gitignore
+|4,39,2,0,1770121021,"~/dir1/16janrepo/.gitignore"
+-'  2  0  ~/dir1/16janrepo/.gitignore
+|4,39,2,0,1770121021,"~/dir1/16janrepo/.gitignore"
+-'  1  0  ~/dir1/16janrepo/.gitignore
+|4,39,1,0,1770120992,"~/dir1/16janrepo/.gitignore"
+-'  1  0  ~/dir1/16janrepo/.gitignore
+|4,39,1,0,1770120992,"~/dir1/16janrepo/.gitignore"
+-'  1  0  ~/dir1/16janrepo/.gitignore
+|4,39,1,0,1770120992,"~/dir1/16janrepo/.gitignore"
+-'  1  0  ~/dir1/16janrepo/.gitignore
+|4,39,1,0,1770120992,"~/dir1/16janrepo/.gitignore"
+-'  3  0  ~/.gitignore
 |4,39,3,0,1770117156,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1770117156,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1770117156,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1770117156,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1770116970,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1770116970,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1770116970,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1770116970,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1770116970,"~/.gitignore"
 -'  15  22  ~/docker.compose.yml
 |4,39,15,22,1769829117,"~/docker.compose.yml"
 -'  15  22  ~/docker.compose.yml
 |4,39,15,22,1769829117,"~/docker.compose.yml"
+-'  15  22  ~/docker.compose.yml
+|4,39,15,22,1769829117,"~/docker.compose.yml"
+-'  15  22  ~/docker.compose.yml
+|4,39,15,22,1769829117,"~/docker.compose.yml"
+-'  15  22  ~/docker.compose.yml
+|4,39,15,22,1769829117,"~/docker.compose.yml"
+-'  15  22  ~/docker.compose.yml
+|4,39,15,22,1769829117,"~/docker.compose.yml"
+-'  15  22  ~/docker.compose.yml
+|4,39,15,22,1769829117,"~/docker.compose.yml"
+-'  15  22  ~/docker.compose.yml
+|4,39,15,22,1769829117,"~/docker.compose.yml"
+-'  15  22  ~/docker.compose.yml
+|4,39,15,22,1769829117,"~/docker.compose.yml"
+-'  15  22  ~/docker.compose.yml
+|4,39,15,22,1769829117,"~/docker.compose.yml"
+-'  15  22  ~/docker.compose.yml
+|4,39,15,22,1769829117,"~/docker.compose.yml"
+-'  15  22  ~/docker.compose.yml
+|4,39,15,22,1769829117,"~/docker.compose.yml"
+-'  15  22  ~/docker.compose.yml
+|4,39,15,22,1769829117,"~/docker.compose.yml"
+-'  15  22  ~/docker.compose.yml
+|4,39,15,22,1769829117,"~/docker.compose.yml"
+-'  15  22  ~/docker.compose.yml
+|4,39,15,22,1769829117,"~/docker.compose.yml"
+-'  15  22  ~/docker.compose.yml
+|4,39,15,22,1769829117,"~/docker.compose.yml"
+-'  1  0  ~/docker.compose.yml
+|4,39,1,0,1769828649,"~/docker.compose.yml"
+-'  1  0  ~/docker.compose.yml
+|4,39,1,0,1769828649,"~/docker.compose.yml"
+-'  1  0  ~/docker.compose.yml
+|4,39,1,0,1769828649,"~/docker.compose.yml"
+-'  1  0  ~/docker.compose.yml
+|4,39,1,0,1769828649,"~/docker.compose.yml"
+-'  1  0  ~/docker.compose.yml
+|4,39,1,0,1769828649,"~/docker.compose.yml"
+-'  1  0  ~/docker.compose.yml
+|4,39,1,0,1769828649,"~/docker.compose.yml"
+-'  1  0  ~/docker.compose.yml
+|4,39,1,0,1769828649,"~/docker.compose.yml"
+-'  1  0  ~/docker.compose.yml
+|4,39,1,0,1769828649,"~/docker.compose.yml"
+-'  1  0  ~/docker.compose.yml
+|4,39,1,0,1769828649,"~/docker.compose.yml"
+-'  1  0  ~/docker.compose.yml
+|4,39,1,0,1769828649,"~/docker.compose.yml"
+-'  1  0  ~/docker.compose.yml
+|4,39,1,0,1769828649,"~/docker.compose.yml"
+-'  1  0  ~/docker.compose.yml
+|4,39,1,0,1769828649,"~/docker.compose.yml"
+-'  1  0  ~/docker.compose.yml
+|4,39,1,0,1769828649,"~/docker.compose.yml"
+-'  1  0  ~/docker.compose.yml
+|4,39,1,0,1769828649,"~/docker.compose.yml"
 -'  1  0  ~/docker.compose.yml
 |4,39,1,0,1769828649,"~/docker.compose.yml"
 -'  1  0  ~/docker.compose.yml
@@ -75,6 +173,62 @@
 |4,39,4,40,1769757458,"~/Dockerfile"
 -'  4  40  ~/Dockerfile
 |4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
+-'  4  40  ~/Dockerfile
+|4,39,4,40,1769757458,"~/Dockerfile"
 -'  2  70  ~/Dockerfile
 |4,39,2,70,1769757058,"~/Dockerfile"
 -'  2  70  ~/Dockerfile
@@ -83,187 +237,45 @@
 |4,39,2,70,1769757058,"~/Dockerfile"
 -'  2  70  ~/Dockerfile
 |4,39,2,70,1769757058,"~/Dockerfile"
--'  1  21  ~/indexfile
-|4,39,1,21,1769756881,"~/indexfile"
--'  1  21  ~/indexfile
-|4,39,1,21,1769756881,"~/indexfile"
--'  1  21  ~/indexfile
-|4,39,1,21,1769756881,"~/indexfile"
--'  1  21  ~/indexfile
-|4,39,1,21,1769756881,"~/indexfile"
--'  1  21  ~/indexfile
-|4,39,1,21,1769756881,"~/indexfile"
--'  1  21  ~/indexfile
-|4,39,1,21,1769756881,"~/indexfile"
--'  1  21  ~/indexfile
-|4,39,1,21,1769756881,"~/indexfile"
--'  1  21  ~/indexfile
-|4,39,1,21,1769756881,"~/indexfile"
--'  1  0  /Dockrfile
-|4,39,1,0,1769580360,"/Dockrfile"
--'  1  0  /Dockrfile
-|4,39,1,0,1769580360,"/Dockrfile"
--'  1  0  /Dockrfile
-|4,39,1,0,1769580360,"/Dockrfile"
--'  1  0  /Dockrfile
-|4,39,1,0,1769580360,"/Dockrfile"
--'  1  0  /Dockrfile
-|4,39,1,0,1769580360,"/Dockrfile"
--'  1  0  /Dockrfile
-|4,39,1,0,1769580360,"/Dockrfile"
--'  1  0  /Dockrfile
-|4,39,1,0,1769580360,"/Dockrfile"
--'  1  0  /Dockrfile
-|4,39,1,0,1769580360,"/Dockrfile"
--'  1  0  /Dockrfile
-|4,39,1,0,1769580360,"/Dockrfile"
--'  1  0  /Dockrfile
-|4,39,1,0,1769580360,"/Dockrfile"
--'  1  0  /Dockrfile
-|4,39,1,0,1769580360,"/Dockrfile"
--'  1  0  /Dockrfile
-|4,39,1,0,1769580360,"/Dockrfile"
--'  1  0  /Dockrfile
-|4,39,1,0,1769580360,"/Dockrfile"
--'  1  0  /Dockrfile
-|4,39,1,0,1769580360,"/Dockrfile"
--'  1  0  /Dockrfile
-|4,39,1,0,1769580360,"/Dockrfile"
--'  1  0  /Dockrfile
-|4,39,1,0,1769580360,"/Dockrfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  5  5  /Dockerfile
-|4,39,5,5,1769577152,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
--'  6  4  /Dockerfile
-|4,39,6,4,1769577136,"/Dockerfile"
+-'  2  70  ~/Dockerfile
+|4,39,2,70,1769757058,"~/Dockerfile"
+-'  2  70  ~/Dockerfile
+|4,39,2,70,1769757058,"~/Dockerfile"
+-'  2  70  ~/Dockerfile
+|4,39,2,70,1769757058,"~/Dockerfile"
+-'  2  70  ~/Dockerfile
+|4,39,2,70,1769757058,"~/Dockerfile"
+-'  2  70  ~/Dockerfile
+|4,39,2,70,1769757058,"~/Dockerfile"
+-'  2  70  ~/Dockerfile
+|4,39,2,70,1769757058,"~/Dockerfile"
+-'  2  70  ~/Dockerfile
+|4,39,2,70,1769757058,"~/Dockerfile"
+-'  2  70  ~/Dockerfile
+|4,39,2,70,1769757058,"~/Dockerfile"
+-'  2  70  ~/Dockerfile
+|4,39,2,70,1769757058,"~/Dockerfile"
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1770117150	0
+	*	1770176745	0
 	"	3	0
 	^	3	0
-	.	2	13
-	+	2	13
+	.	2	8
+	+	1	5
+	+	2	8
+
+> ~/dir1/16janrepo/.git/COMMIT_EDITMSG
+	*	1770122158	0
+	"	2	0
+
+> ~/dir1/16janrepo/.gitignore
+	*	1770121017	0
+	"	2	0
+	^	2	0
+	.	1	5
+	+	1	5
 
 > ~/docker.compose.yml
 	*	1769829112	0

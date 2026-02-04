@@ -294,3 +294,81 @@ git remote -v
 git push -u origin main
 ssh -keygen
 ssh-keygen
+yum install git -y
+mkdir testgit
+git init
+which branch
+branch
+git branch
+touch testfile
+git init .
+git commit -m "mytestfile"
+vi .gitignore
+git add .gitignore
+git commit -m "Ignore SSH keys and bash history"
+git commit -m "Add testfile"
+git commit -m "testfile"
+git add .
+git commit -m "testfile"
+git push origin main
+ssh-keygen -c test
+ssh-keygen
+y
+ls -a
+cd ~
+ls -a|grep -ssh
+exit
+yum install git -y
+cd dir1
+ls
+mkdir dir2
+git init
+branch
+git branch
+touch file1
+git add .
+git commit -m "myfile01"
+git push origin main
+git branch
+git branch -m master main
+git clone https://github.com/sandip788828-jpg/16janrepo.git
+git push origin main
+cd 16janrepo
+git branch
+git push origin main
+cd 16janrepo
+cd..
+pwd
+cd 16janrepo
+touch .txt{1..10}
+ls
+ls -l
+cat > abc.txt
+cat >cbz.txt
+.gitignore
+create .gitignore
+vi .gitignore
+git add.
+git commit -m "gitignore"
+git push origin main
+ls
+git branch
+git branch new
+git branch
+git checkout new
+git branch
+git log
+git log --online
+pwd
+cd 16janrepo
+ls
+gitlog --online
+git log --online
+git log --oneline
+git revert b40f0bd
+git log --oneline
+git tag -a done "My imp comment" 83a3cf5
+git show done
+git tag -a done "My imp comment"83a3cf5
+git tag -a done -m "My imp comment"83a3cf5
+git show done
