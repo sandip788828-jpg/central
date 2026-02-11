@@ -12,7 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1770178017,,"wq"
+|2,0,1770811047,,"wq"
+:wq!
+|2,0,1770391148,,"wq!"
 :x
 |2,0,1769757458,,"x"
 :Q!
@@ -31,232 +33,320 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	}
+|3,1,36,0,1,0,1770186356,"}"
 
 # File marks:
-'0  1  0  ~/sandyfile
-|4,48,1,0,1770178017,"~/sandyfile"
-'1  3  0  ~/.gitignore
-|4,49,3,0,1770176749,"~/.gitignore"
-'2  2  0  ~/dir1/16janrepo/.git/COMMIT_EDITMSG
-|4,50,2,0,1770122162,"~/dir1/16janrepo/.git/COMMIT_EDITMSG"
-'3  2  0  ~/dir1/16janrepo/.gitignore
-|4,51,2,0,1770121021,"~/dir1/16janrepo/.gitignore"
-'4  4  0  ~/.gitignore
-|4,52,4,0,1770117156,"~/.gitignore"
-'5  3  0  ~/.gitignore
-|4,53,3,0,1770117156,"~/.gitignore"
-'6  15  22  ~/docker.compose.yml
-|4,54,15,22,1769829117,"~/docker.compose.yml"
-'7  4  40  ~/Dockerfile
-|4,55,4,40,1769757458,"~/Dockerfile"
-'8  1  21  ~/indexfile
-|4,56,1,21,1769756881,"~/indexfile"
-'9  1  0  /Dockrfile
-|4,57,1,0,1769580360,"/Dockrfile"
+'0  29  0  ~/Jenkinsfile
+|4,48,29,0,1770811047,"~/Jenkinsfile"
+'1  10  0  ~/sonar-project-properties
+|4,49,10,0,1770810479,"~/sonar-project-properties"
+'2  21  0  ~/.bashrc
+|4,50,21,0,1770809267,"~/.bashrc"
+'3  21  0  ~/.bashrc
+|4,51,21,0,1770469999,"~/.bashrc"
+'4  1  0  ~/vi
+|4,52,1,0,1770469888,"~/vi"
+'5  29  15  ~/.bashrc
+|4,53,29,15,1770469743,"~/.bashrc"
+'6  29  15  ~/.bashrc
+|4,54,29,15,1770469743,"~/.bashrc"
+'7  28  15  ~/.bashrc
+|4,55,28,15,1770469743,"~/.bashrc"
+'8  28  15  ~/.bashrc
+|4,56,28,15,1770469743,"~/.bashrc"
+'9  29  15  ~/.bashrc
+|4,57,29,15,1770469743,"~/.bashrc"
 
 # Jumplist (newest first):
--'  1  0  ~/sandyfile
-|4,39,1,0,1770178017,"~/sandyfile"
--'  3  0  ~/.gitignore
-|4,39,3,0,1770176749,"~/.gitignore"
--'  3  0  ~/.gitignore
-|4,39,3,0,1770176749,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1770176714,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1770176714,"~/.gitignore"
--'  2  0  ~/dir1/16janrepo/.git/COMMIT_EDITMSG
-|4,39,2,0,1770122162,"~/dir1/16janrepo/.git/COMMIT_EDITMSG"
--'  2  0  ~/dir1/16janrepo/.git/COMMIT_EDITMSG
-|4,39,2,0,1770122162,"~/dir1/16janrepo/.git/COMMIT_EDITMSG"
--'  2  0  ~/dir1/16janrepo/.git/COMMIT_EDITMSG
-|4,39,2,0,1770122162,"~/dir1/16janrepo/.git/COMMIT_EDITMSG"
--'  2  0  ~/dir1/16janrepo/.git/COMMIT_EDITMSG
-|4,39,2,0,1770122162,"~/dir1/16janrepo/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/16janrepo/.git/COMMIT_EDITMSG
-|4,39,1,0,1770122112,"~/dir1/16janrepo/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/16janrepo/.git/COMMIT_EDITMSG
-|4,39,1,0,1770122112,"~/dir1/16janrepo/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/16janrepo/.git/COMMIT_EDITMSG
-|4,39,1,0,1770122112,"~/dir1/16janrepo/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/16janrepo/.git/COMMIT_EDITMSG
-|4,39,1,0,1770122112,"~/dir1/16janrepo/.git/COMMIT_EDITMSG"
--'  2  0  ~/dir1/16janrepo/.gitignore
-|4,39,2,0,1770121021,"~/dir1/16janrepo/.gitignore"
--'  2  0  ~/dir1/16janrepo/.gitignore
-|4,39,2,0,1770121021,"~/dir1/16janrepo/.gitignore"
--'  2  0  ~/dir1/16janrepo/.gitignore
-|4,39,2,0,1770121021,"~/dir1/16janrepo/.gitignore"
--'  2  0  ~/dir1/16janrepo/.gitignore
-|4,39,2,0,1770121021,"~/dir1/16janrepo/.gitignore"
--'  2  0  ~/dir1/16janrepo/.gitignore
-|4,39,2,0,1770121021,"~/dir1/16janrepo/.gitignore"
--'  2  0  ~/dir1/16janrepo/.gitignore
-|4,39,2,0,1770121021,"~/dir1/16janrepo/.gitignore"
--'  2  0  ~/dir1/16janrepo/.gitignore
-|4,39,2,0,1770121021,"~/dir1/16janrepo/.gitignore"
--'  2  0  ~/dir1/16janrepo/.gitignore
-|4,39,2,0,1770121021,"~/dir1/16janrepo/.gitignore"
--'  1  0  ~/dir1/16janrepo/.gitignore
-|4,39,1,0,1770120992,"~/dir1/16janrepo/.gitignore"
--'  1  0  ~/dir1/16janrepo/.gitignore
-|4,39,1,0,1770120992,"~/dir1/16janrepo/.gitignore"
--'  1  0  ~/dir1/16janrepo/.gitignore
-|4,39,1,0,1770120992,"~/dir1/16janrepo/.gitignore"
--'  1  0  ~/dir1/16janrepo/.gitignore
-|4,39,1,0,1770120992,"~/dir1/16janrepo/.gitignore"
--'  1  0  ~/dir1/16janrepo/.gitignore
-|4,39,1,0,1770120992,"~/dir1/16janrepo/.gitignore"
--'  1  0  ~/dir1/16janrepo/.gitignore
-|4,39,1,0,1770120992,"~/dir1/16janrepo/.gitignore"
--'  1  0  ~/dir1/16janrepo/.gitignore
-|4,39,1,0,1770120992,"~/dir1/16janrepo/.gitignore"
--'  1  0  ~/dir1/16janrepo/.gitignore
-|4,39,1,0,1770120992,"~/dir1/16janrepo/.gitignore"
--'  3  0  ~/.gitignore
-|4,39,3,0,1770117156,"~/.gitignore"
--'  3  0  ~/.gitignore
-|4,39,3,0,1770117156,"~/.gitignore"
--'  3  0  ~/.gitignore
-|4,39,3,0,1770117156,"~/.gitignore"
--'  3  0  ~/.gitignore
-|4,39,3,0,1770117156,"~/.gitignore"
--'  3  0  ~/.gitignore
-|4,39,3,0,1770117156,"~/.gitignore"
--'  3  0  ~/.gitignore
-|4,39,3,0,1770117156,"~/.gitignore"
--'  3  0  ~/.gitignore
-|4,39,3,0,1770117156,"~/.gitignore"
--'  3  0  ~/.gitignore
-|4,39,3,0,1770117156,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1770116970,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1770116970,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1770116970,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1770116970,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1770116970,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1770116970,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1770116970,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1770116970,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1770116970,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1770116970,"~/.gitignore"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  15  22  ~/docker.compose.yml
-|4,39,15,22,1769829117,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
--'  1  0  ~/docker.compose.yml
-|4,39,1,0,1769828649,"~/docker.compose.yml"
+-'  29  0  ~/Jenkinsfile
+|4,39,29,0,1770811047,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1770810491,"~/Jenkinsfile"
+-'  10  0  ~/sonar-project-properties
+|4,39,10,0,1770810479,"~/sonar-project-properties"
+-'  10  0  ~/sonar-project-properties
+|4,39,10,0,1770810479,"~/sonar-project-properties"
+-'  1  0  ~/sonar-project-properties
+|4,39,1,0,1770809828,"~/sonar-project-properties"
+-'  1  0  ~/sonar-project-properties
+|4,39,1,0,1770809828,"~/sonar-project-properties"
+-'  21  0  ~/.bashrc
+|4,39,21,0,1770809267,"~/.bashrc"
+-'  21  0  ~/.bashrc
+|4,39,21,0,1770809267,"~/.bashrc"
+-'  21  0  ~/.bashrc
+|4,39,21,0,1770809267,"~/.bashrc"
+-'  21  0  ~/.bashrc
+|4,39,21,0,1770809267,"~/.bashrc"
+-'  21  0  ~/.bashrc
+|4,39,21,0,1770469999,"~/.bashrc"
+-'  21  0  ~/.bashrc
+|4,39,21,0,1770469999,"~/.bashrc"
+-'  21  0  ~/.bashrc
+|4,39,21,0,1770469999,"~/.bashrc"
+-'  21  0  ~/.bashrc
+|4,39,21,0,1770469999,"~/.bashrc"
+-'  29  15  ~/.bashrc
+|4,39,29,15,1770469899,"~/.bashrc"
+-'  29  15  ~/.bashrc
+|4,39,29,15,1770469899,"~/.bashrc"
+-'  29  15  ~/.bashrc
+|4,39,29,15,1770469899,"~/.bashrc"
+-'  29  15  ~/.bashrc
+|4,39,29,15,1770469899,"~/.bashrc"
+-'  29  15  ~/.bashrc
+|4,39,29,15,1770469899,"~/.bashrc"
+-'  29  15  ~/.bashrc
+|4,39,29,15,1770469899,"~/.bashrc"
+-'  29  15  ~/.bashrc
+|4,39,29,15,1770469899,"~/.bashrc"
+-'  29  15  ~/.bashrc
+|4,39,29,15,1770469899,"~/.bashrc"
+-'  1  0  ~/vi
+|4,39,1,0,1770469888,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1770469888,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1770469888,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1770469888,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1770469888,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1770469888,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1770469888,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1770469888,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1770469888,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1770469888,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1770469888,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1770469888,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1770469888,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1770469888,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1770469888,"~/vi"
+-'  1  0  ~/vi
+|4,39,1,0,1770469888,"~/vi"
+-'  28  15  ~/.bashrc
+|4,39,28,15,1770469743,"~/.bashrc"
+-'  28  15  ~/.bashrc
+|4,39,28,15,1770469743,"~/.bashrc"
+-'  28  15  ~/.bashrc
+|4,39,28,15,1770469743,"~/.bashrc"
+-'  28  15  ~/.bashrc
+|4,39,28,15,1770469743,"~/.bashrc"
+-'  28  15  ~/.bashrc
+|4,39,28,15,1770469743,"~/.bashrc"
+-'  28  15  ~/.bashrc
+|4,39,28,15,1770469743,"~/.bashrc"
+-'  28  15  ~/.bashrc
+|4,39,28,15,1770469743,"~/.bashrc"
+-'  28  15  ~/.bashrc
+|4,39,28,15,1770469743,"~/.bashrc"
+-'  28  15  ~/.bashrc
+|4,39,28,15,1770469743,"~/.bashrc"
+-'  28  15  ~/.bashrc
+|4,39,28,15,1770469743,"~/.bashrc"
+-'  28  15  ~/.bashrc
+|4,39,28,15,1770469743,"~/.bashrc"
+-'  28  15  ~/.bashrc
+|4,39,28,15,1770469743,"~/.bashrc"
+-'  17  156  ~/.bashrc
+|4,39,17,156,1770469568,"~/.bashrc"
+-'  17  156  ~/.bashrc
+|4,39,17,156,1770469568,"~/.bashrc"
+-'  17  156  ~/.bashrc
+|4,39,17,156,1770469568,"~/.bashrc"
+-'  17  156  ~/.bashrc
+|4,39,17,156,1770469568,"~/.bashrc"
+-'  17  156  ~/.bashrc
+|4,39,17,156,1770469568,"~/.bashrc"
+-'  17  156  ~/.bashrc
+|4,39,17,156,1770469568,"~/.bashrc"
+-'  17  156  ~/.bashrc
+|4,39,17,156,1770469568,"~/.bashrc"
+-'  17  156  ~/.bashrc
+|4,39,17,156,1770469568,"~/.bashrc"
+-'  17  156  ~/.bashrc
+|4,39,17,156,1770469568,"~/.bashrc"
+-'  17  156  ~/.bashrc
+|4,39,17,156,1770469568,"~/.bashrc"
+-'  17  156  ~/.bashrc
+|4,39,17,156,1770469568,"~/.bashrc"
+-'  17  156  ~/.bashrc
+|4,39,17,156,1770469568,"~/.bashrc"
+-'  17  156  ~/.bashrc
+|4,39,17,156,1770469568,"~/.bashrc"
+-'  17  156  ~/.bashrc
+|4,39,17,156,1770469568,"~/.bashrc"
+-'  17  156  ~/.bashrc
+|4,39,17,156,1770469568,"~/.bashrc"
+-'  17  156  ~/.bashrc
+|4,39,17,156,1770469568,"~/.bashrc"
+-'  18  71  ~/.bashrc
+|4,39,18,71,1770469399,"~/.bashrc"
+-'  18  71  ~/.bashrc
+|4,39,18,71,1770469399,"~/.bashrc"
+-'  18  71  ~/.bashrc
+|4,39,18,71,1770469399,"~/.bashrc"
+-'  18  71  ~/.bashrc
+|4,39,18,71,1770469399,"~/.bashrc"
+-'  18  71  ~/.bashrc
+|4,39,18,71,1770469399,"~/.bashrc"
+-'  18  71  ~/.bashrc
+|4,39,18,71,1770469399,"~/.bashrc"
+-'  18  71  ~/.bashrc
+|4,39,18,71,1770469399,"~/.bashrc"
+-'  18  71  ~/.bashrc
+|4,39,18,71,1770469399,"~/.bashrc"
+-'  18  71  ~/.bashrc
+|4,39,18,71,1770469399,"~/.bashrc"
+-'  18  71  ~/.bashrc
+|4,39,18,71,1770469399,"~/.bashrc"
+-'  18  71  ~/.bashrc
+|4,39,18,71,1770469399,"~/.bashrc"
+-'  18  71  ~/.bashrc
+|4,39,18,71,1770469399,"~/.bashrc"
+-'  18  71  ~/.bashrc
+|4,39,18,71,1770469399,"~/.bashrc"
+-'  18  71  ~/.bashrc
+|4,39,18,71,1770469399,"~/.bashrc"
+-'  18  71  ~/.bashrc
+|4,39,18,71,1770469399,"~/.bashrc"
+-'  18  71  ~/.bashrc
+|4,39,18,71,1770469399,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1770469331,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1770469331,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1770469331,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1770469331,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1770469331,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1770469331,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1770469331,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1770469331,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1770469331,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1770469331,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1770469331,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1770469331,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1770469331,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1770469331,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1770469331,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1770469331,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1770469331,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1770469331,"~/.bashrc"
 
 # History of marks within files (newest to oldest):
+
+> ~/Jenkinsfile
+	*	1770811044	0
+	"	29	0
+	^	29	0
+	.	28	1
+	+	1	9
+	+	1	114
+	+	1	316
+	+	1	188
+	+	1	242
+	+	1	288
+	+	1	316
+	+	28	1
+
+> ~/sonar-project-properties
+	*	1770810475	0
+	"	10	0
+	^	10	0
+	.	9	66
+	+	9	66
+
+> ~/.bashrc
+	*	1770809263	0
+	"	21	0
+	^	21	0
+	.	20	44
+	+	12	140
+	+	12	84
+	+	12	113
+	+	16	83
+	+	16	1
+	+	12	160
+	+	12	220
+	+	15	0
+	+	17	157
+	+	15	0
+	+	16	0
+	+	17	60
+	+	17	156
+	+	1	8
+	+	10	16
+	+	19	71
+	+	29	15
+	+	20	44
+
+> ~/vi
+	*	1770469883	0
+	"	1	0
+
+> ~/.bash_profile
+	*	1770469153	0
+	"	11	56
+	^	11	57
+	.	11	56
+	+	5	65
+	+	5	39
+	+	5	13
+	+	5	40
+	+	5	66
+	+	5	57
+	+	5	128
+	+	12	20
+	+	6	0
+	+	5	12
+	+	9	8
+	+	8	62
+	+	11	56
+
+> ~/Dockerfile
+	*	1770289611	0
+	"	4	35
+	^	4	36
+	.	4	35
+	+	1	25
+	+	2	114
+	+	7	10
+	+	2	83
+	+	2	98
+	+	2	72
+	+	2	76
+	+	2	43
+	+	2	83
+	+	2	20
+	+	4	35
 
 > ~/sandyfile
 	*	1770178012	0
@@ -294,21 +384,6 @@
 	+	5	26
 	+	7	17
 	+	15	0
-
-> ~/Dockerfile
-	*	1769757362	0
-	"	4	40
-	^	4	28
-	.	4	27
-	+	1	25
-	+	7	31
-	+	10	10
-	+	6	0
-	+	2	98
-	+	2	72
-	+	2	76
-	+	3	26
-	+	4	27
 
 > ~/indexfile
 	*	1769756877	0

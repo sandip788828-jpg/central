@@ -396,3 +396,221 @@ git commit -m "Add myfile4feb and gitignore"
 ls
 cd 4feb
 ls
+yum install git -y
+mkdir 4febdir
+git init
+cat >sandyfile
+git add .
+git commit -m "myfile4"
+git push origin main
+git pull origin main
+git branch
+git pull --no-rebase origin main
+vi sandyfile
+git push origin main
+git clone https://github.com/sandip788828-jpg/3febcentralprivaterepo.git
+pwd
+cd 3febcentralprivaterepo
+ls
+cat > myfilee
+git add .
+git commit -m "myfile"
+git push orign main
+[main d330a53] myfile
+ 1 file changed, 1 insertion(+)
+ create mode 100644 myfilee
+[root@ip-172-31-78-173 3febcentralprivaterepo]# git push orign main
+fatal: 'orign' does not appear to be a git repository
+fatal: Could not read from remote repository.
+Please make sure you have the correct access rights
+and the repository exists.
+[root@ip-172-31-78-173 3febcentralprivaterepo]#
+git push origin main
+ssh-keygen
+cd .ssh/
+ls
+cat id_rsa_pub
+cd .ssh/
+cd /root/.ssh
+cd .ssh/
+cd ~/.ssh
+ls
+cat id_rsa.pub
+cd
+pwd
+git clone git@github.com:sandip788828-jpg/myprivaterebo4feb.git
+touch filee
+git add .
+git commit -m "myfile"
+git push origin main
+cd myprivaterebo4feb
+touch myfilr
+git add .
+git commit -m "myfile"
+git push origin main
+pwd
+exit
+yum istall docker -y
+yum update -y
+yum install docker -y
+systemctl enable docker
+docker --version
+vi Dockerfile
+docker build - myimage
+docker build -myimage
+docker build -t myimage .
+docker run -i --name mycont1 myimage /bin/bash
+docker run -i --name mycont2 --volume -from mycont2 ubuntu /bin/bash
+docker run -i --name mycont2 --volume -from mycont1 ubuntu /bin/bash
+docker run -it --name mycont2 --volumes-from mycont1 ubuntu /bin/bash
+vi Dockerfile
+docker build -t myimage .
+docker run -it --name mycont1 --volumes-from mycont2 ubuntu /bin/bash
+docker run -it --name mycont1 ubuntu /bin/bash
+docker run -it --name mycont1 myimage /bin/bash
+# create /data/file1
+exit
+yum install docker -y
+start docker service
+systemct1 start docker
+systemctl start docker
+docker pull sandip788828/
+docker pull sandip788828/myimage
+docker images
+docker pull sandip788828/myimage
+docker pull sandip788828/myimagelatest
+docker images | grep sandip788828/myimage
+ls
+docker tag myimage sandip788828/myimage:latest
+docker images | grep sandip788828/myimage
+docker pull sandip788828/myimage
+docker push sandip788828/myimage:latest
+docker pull myimage
+docker pull sandip788828/myimage
+ls
+exit
+yum install docker -y
+systemctl start service
+systemctl ctl enable docker
+sudo systemctl enable docker
+docker run -it ubuntu /bin/bash
+docker rm ubuntu
+docker rename ubuntu myubuntu
+ps-a
+ps -a
+ps
+ps -a
+docker run -name sandycont -it sandyimage /bin/bash
+docker run --name sandycont -it sandyimage /bin/bash
+docker run --name sandycont -it ubuntu  /bin/bash
+ps
+ps -a
+docker run --name saicontainer -it ubuntu /bin/bash
+apt update
+pwd
+tree
+apt install tree -y
+exit
+dockr tag sandipimage sandip788828/4febimage1
+docker tag sandipimage sandip788828/4febimage1
+docker push sandip788828/4febimage1
+yum install docker -y
+systemctl start docker
+docker pull sandip788828/4febimage1
+docker images
+docker run -it --name doccontain sandip788828/4febimage1
+cd /var/lib/jenkins/
+yum install docker -y
+systemctl enable docker
+docker run -it -name saidemy -v /root:/raj ubuntu /bin/bash
+docker run -it -name saidemy -v/root:/raj ubuntu /bin/bash
+docker run -it --name saidemy -v /root:/raj ubuntu /bin/bash
+/root
+ls
+docker run -it --name devops --volumes -from saidemy ubuntu /bin/bash
+docker run -it --name devops --volumes-from saidemy ubuntu /bin/bash
+docker inspect saidemy
+docker run -td --name webcont2 -p 8081:80
+docker run -td --name webcont2 -p 8081:80 ubuntu
+docker exec -it webcont2 /bin/bash
+vi Dockerfile
+docker build -t devopsimage .
+docker run -td --name dovopscount -v /root:/var/www/html -p 8083:80 devopsimg
+exit
+yum install git -y
+git config --global user.name "sandip"
+yum install git -y
+git config --global user.name "sandip"
+git config --global user.email "sandip788828@gmail.com"
+git config --list
+cd /opt/
+wget https://dlcdn.apache.org/maven/maven-3/3.9.12/binaries/apache-maven-3.9.12-bin.tar.gz
+ls
+tar -xvzf apache-maven-3.9.12-bin.tar.gz
+apache-maven-3.9.12-bin.tar.gz maven
+mv apache-maven-3.9.12-bin.tar.gz maven.tar.gz
+rm -rf apache-maven-3.9.12-bin.tar.gz maven.tar.gz
+ls
+cd
+vi .bash_profile
+exit
+mvn --version
+apache maven 3.9.12
+mvn -v
+ls /opt
+mv /opt/apache-maven-3.9.12 /opt/maven
+ls /opt/maven/bin
+vi ~/.bashrc
+yum install -y
+git config --global user.name 'sandip'
+git config --global user.email 'sandip788828@gmail.com'
+git config --list
+cd /opt/
+wget https://dlcdn.apache.org/maven/maven-3/3.9.12/binaries/apache-maven-3.9.12-bin.tar.gz
+ls
+tar -xvzf apache-maven-3.9.12-bin.tar.gz
+mv apache-maven-3.9.12 maven
+rm -rf apache-maven-3.9.12-bin.tar.gz
+ls
+cd
+vi .bash_profile
+close
+exit
+mvn version
+mvn --version
+java -version
+readlink -f $(which java)
+vi ~/.bashrc
+source ~/.bashrc
+echo $JAVA_HOME
+java -version
+echo $JAVA_HOME
+JAVA --version
+mvn --version
+echo $M2
+echo $M2_HOME
+/root
+mvn arehetype:genrate 
+[root@ip-172-31-78-173 ~]# mvn arehetype:genrate
+The JAVA_HOME environment variable is not defined correctly,
+this environment variable is needed to run this program.
+[root@ip-172-31-78-173 ~]#
+vi ~/.bashrc
+echo $JAVA_HOME
+mvn --version
+vi /root/.bashrc
+exit 
+source ~/.bashrc
+vi /root/.bashrc
+source ~/.bashrc
+vi vi /root/.bashrc
+vi /root/.bashrc
+source ~/.bashrc
+git clone https://github.com/sandip788828-jpg/sparkjava-war-example.git
+ls
+cd sparkjava-war-example/
+ls
+vi /root/.bashrc
+sudo su -
+sudo su -
+sudo su -

@@ -1,7 +1,4 @@
 FROM ubuntu
-RUN apt update -y
+VOLUME apt update -y
 RUN apt install apache2 -y
-CMD {"apachectl2CTL", "-D", "FOREGROUND"}
-
-
-
+CMD {"apache2ctl","-D","Foreground"}

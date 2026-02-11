@@ -1,4 +1,4 @@
-# .bashrc
+# .bashr
 
 # Source global definitions
 if [ -f /etc/bashrc ]; then
@@ -6,11 +6,18 @@ if [ -f /etc/bashrc ]; then
 fi
 
 # User specific environment
-if ! [[ "$PATH" =~ "$HOME/.local/bin:$HOME/bin:" ]]
+if [ -f /etc/bashrc ]; then
+    . /etc/bashrc
 then
-    PATH="$HOME/.local/bin:$HOME/bin:$PATH"
+  # User specific environment
+  # # User specific environment
+
+
 fi
-export PATH
+export JAVA_HOME=/usr/lib/jvm/java-17-amazon-corretto.x86_64
+export M2_HOME=/opt/maven
+export PATH=$JAVA_HOME/bin:$M2_HOME/bin:$HOME/.local/bin:$HOME/bin:$PATH
+export PATH=$HOME/.local/bin:$HOME/bin:$PATH
 
 # Uncomment the following line if you don't like systemctl's auto-paging feature:
 # export SYSTEMD_PAGER=
